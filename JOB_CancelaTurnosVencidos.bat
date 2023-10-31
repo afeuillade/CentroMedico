@@ -1,0 +1,1 @@
+SQLCMD -s .\192.168.56.1 -i C:\SQL_JOBS.\JOB_CancelaTurnosVencidos.sql

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Proyecto Inicial">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="LAPTOP-THV0S2RP\MSSQLSERVER2023:sa">
+          <Created>2023-10-23T19:45:32.9565914-03:00</Created>
+          <Type>SQL</Type>
+          <Server>LAPTOP-THV0S2RP\MSSQLSERVER2023</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AltaMedico.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>AltaMedico.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AltaPaciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>AltaPaciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AltaTurnos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>AltaTurnos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CrearFK.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CrearFK.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DEL_Turno.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DEL_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EstructurasControl.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>EstructurasControl.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Funciones DefinidasUser.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Funciones DefinidasUser.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Funciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Funciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FuncionesConversionyTexto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FuncionesConversionyTexto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Joins.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Joins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Operadores.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Operadores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="S_paciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>S_paciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SEL_EspecialidadesMedicas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SEL_EspecialidadesMedicas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Select_HistoriaClinica.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Select_HistoriaClinica.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Select_TurnoPaciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Select_TurnoPaciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SentenciasDDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SentenciasDDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SentenciasSELECT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SentenciasSELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TablasTemporales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TablasTemporales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Transacciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Transacciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPD_Paciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UPD_Paciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPD_Turno.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UPD_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vistas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-THV0S2RP\MSSQLSERVER2023:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-THV0S2RP\MSSQLSERVER2023</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Vistas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
